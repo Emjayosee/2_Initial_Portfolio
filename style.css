@@ -60,8 +60,8 @@ margin-top: 10px;
         padding-bottom: 0px;
 }
 
-.contactnav {padding-top: 10px;
-    padding-bottom: 10px;}
+/* .contactnav {padding-top: 10px;
+    padding-bottom: 10px;} */
 
 /* .portfolionav {padding-top: 10px;
         padding-bottom: 10px;} */
@@ -73,7 +73,7 @@ margin-top: 10px;
 .container-fluid {
     background-color:cornflowerblue;
     color: white !important;
-    margin-bottom: .5px;
+    margin-bottom: 0px;
 }
 .navbar-brand {
     color: white;
