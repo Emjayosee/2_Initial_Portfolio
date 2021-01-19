@@ -4,10 +4,11 @@
     /* background-image: url(../Assignment02/Portfolio/IMG_2359.jpeg); */
     /* opacity: 0.5; */
     background-size: cover;
-    background-color:burlywood;
+    background-color:rgb(205, 228, 235);
+    margin: 0px;
 } 
 
-main::before {
+/* main::before {
     content: "";
     background-image: url(../Assignment02/Portfolio/IMG_2359.jpeg);
     background-size: cover
@@ -17,9 +18,10 @@ main::before {
     right: 0;
     position: fixed;
     z-index: -1;
-}
+} */
     
-h1 {margin: 10px
+h1 {margin: 10px;
+    margin-top: 60px;
 }
 
 h2 {font-size:30px;
@@ -32,26 +34,17 @@ margin: 10px;
 font-size: 20px;
 }
 
-/* .List {
-    float:left;
-} */
-
-.main {
-/* border-color: gray; */
-/* border-style: solid;
-border-width: 10px; */
-}
-
 .text {
-padding-top: 0px;
-margin-top: 0px;
+padding-top: 10px;
+margin-top: 10px;
 }
 
 #profilePic { 
     border: 5px solid Navy;
     float: left;
-    padding: 10px;
-    margin: 10px;
+    padding: 0px;
+    margin: 27px;
+    margin-bottom: 10px;
     height: 200px;
 }
 
@@ -60,8 +53,18 @@ margin-top: 0px;
     padding: 10px;
     margin: 10px;
     height: 50;
-    width: 50
+    width: 50;
 }
+
+.navbar {padding-top: 0px;
+        padding-bottom: 0px;
+}
+
+.contactnav {padding-top: 10px;
+    padding-bottom: 10px;}
+
+/* .portfolionav {padding-top: 10px;
+        padding-bottom: 10px;} */
 
 .navbar-collapse {
     align-items: center;
@@ -70,7 +73,7 @@ margin-top: 0px;
 .container-fluid {
     background-color:cornflowerblue;
     color: white !important;
-    margin-bottom: 1px;
+    margin-bottom: .5px;
 }
 .navbar-brand {
     color: white;
@@ -89,7 +92,7 @@ margin-top: 0px;
     border: 5px solid Navy;
     float: left;
     padding: 10px;
-    margin: 10px;
+    margin: 20px;
     height: 350px;
 }
 
@@ -101,8 +104,8 @@ margin-top: 0px;
     background-color: cornflowerblue;
     color:navy;
     text-align: center;
-    font-size: 12px;
-    margin-top: 10px;
+    font-size: 6px;
+    margin-top: 5px;
  }
 .img {
     border-color: navy;
