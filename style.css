@@ -1,0 +1,113 @@
+/* THis is the stylesheet to my Portfolio Website */
+
+/* .background {
+    background-image: url(../Assignment02/Assets/Portfolio/IMG_2359.jpeg);
+    opacity: 0.5;
+    position: relative;
+} 
+
+main::before {
+    content: "";
+    background-image: url(../Assignment02/Assets/Portfolio/IMG_2359.jpeg);
+    background-size: cover"
+    opacity: 0.5;
+    top: 0:border-image: left 0;
+    bottom 0;
+    right: 0;
+    position: fixed;
+    z-index: -1;
+} */
+    
+h1 {margin: 10px
+}
+
+h2 {font-size:30px;
+    color:black;
+    margin: 10px;
+}
+
+p {padding: 10px;
+margin: 10px;
+font-size: 20px;
+}
+
+.List {
+    float:left;
+}
+
+.main {
+border-color: gray;
+border-style: solid;
+border-width: 10px;
+}
+
+.text {
+padding-top: 0px;
+margin-top: 0px;
+}
+
+#profilePic { 
+    border: 5px solid Navy;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    height: 200px;
+}
+
+.mb-3 {
+    border: 5px solid Navy;
+    padding: 20px;
+    margin: 10px;
+    height: 50;
+    width: 50
+}
+
+.navbar-collapse {
+    align-items: center;
+    width: 30%;
+}
+.container-fluid {
+    background-color:cornflowerblue;
+    color: white;
+}
+.navbar-brand {
+    color: white;
+    font-size:30px;
+}
+
+.navbar-nav {
+    color: white;
+}
+.nav-link {
+    color: white;
+    font-size:30px;
+}
+
+.portfoliopic { 
+    border: 5px solid Navy;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    height: 350px;
+}
+
+/* .List {
+    margin: 10px;
+} */
+
+/* .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    color:navy;
+    text-align: center;
+    font-size: 12px;
+ } */
+.img {
+    border-color: navy;s
+    border-style: solid;
+    border: 10px solid Navy;
+    border-image: auto;
+  }
