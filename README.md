@@ -37,10 +37,16 @@ The following items should be considered for future enhancements, time and budge
 
     3. Remove unnecessary classes and elements.
 
+    4. I have learned that solutions to coding debugging are dependent on the code itself, so that all debugging has to be done contextually in light of the other element and styling.
 
-# 05 Further imporvements to make:
 
-    1. Add links to website references.
+# 05 Further improvements to make:
+
+    1. Add links to website references in the document.
+
+    2. Fix the sizing of the cards.
+
+    3.  Add current rendering image.
 
 # 06 Current Rendering:
 

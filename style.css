@@ -1,24 +1,20 @@
 /* THis is the stylesheet to my Portfolio Website */
 
-.background {
-    /* background-image: url(../Assignment02/Portfolio/IMG_2359.jpeg); */
-    /* opacity: 0.5; */
-    background-size: cover;
-    background-color:rgb(205, 228, 235);
-    margin: 0px;
+body {
+    background-image: url(../Assignment02/Portfolio/IMG_0065.jpeg);
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: fixed;
 } 
-
-/* main::before {
-    content: "";
-    background-image: url(../Assignment02/Portfolio/IMG_2359.jpeg);
-    background-size: cover
-    opacity: 0.5;
-    top: 0:border-image: left 0;
-    bottom 0;
-    right: 0;
-    position: fixed;
-    z-index: -1;
-} */
+.main {
+    
+    background-color:rgb(236, 236, 234);
+    
+}
+.container{
+    margin: 10px;
+    
+}
     
 h1 {margin: 10px;
     margin-top: 60px;
@@ -60,18 +56,12 @@ margin-top: 10px;
         padding-bottom: 0px;
 }
 
-/* .contactnav {padding-top: 10px;
-    padding-bottom: 10px;} */
-
-/* .portfolionav {padding-top: 10px;
-        padding-bottom: 10px;} */
-
 .navbar-collapse {
     align-items: center;
     width: 30%;
 }
 .container-fluid {
-    background-color:cornflowerblue;
+    background-color:rgb(192, 204, 206);
     color: white !important;
     margin-bottom: 0px;
 }
@@ -96,15 +86,15 @@ margin-top: 10px;
     height: 350px;
 }
 
-.footer {
+.footer  {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: cornflowerblue;
-    color:navy;
+    background-image: url(../Assignment02/Portfolio/FooterImage.jpg);
+    color:rgb(83, 83, 83);
     text-align: center;
-    font-size: 6px;
+    font-size: 10px;
     margin-top: 5px;
  }
 .img {
