@@ -5,7 +5,7 @@ This is the # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio Assignmen
 
 Portfolio: January 19, 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
-# 01 Goal: The Goal of this project is set up a Bootstrap CSS Framework for a mobile responsive portfolio and demonstrate an ability to integrate the HTML pages as well as use appropriate CSS to display on various sized browsers, including mobile devices.
+# 01 Goal: The Goal of this project is set up a Bootstrap CSS Framework for a mobile responsive portfolio and demonstrate an ability to integrate the HTML pages as well as use appropriate CSS to display on various sized browsers, including mobile devices.  Here is a link to the Github folder https://github.com/Emjayosee/Assignment02Supp and a link to the deployed shell https://emjayosee.github.io/Assignment02Supp/.
 
 # 02 Approach:
 
