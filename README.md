@@ -5,11 +5,11 @@ This is the # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio Assignmen
 
 Portfolio: January 19, 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
-**Note**: The Goal of this project is....... 
+# 01 Goal: The Goal of this project is set up a Bootstrap CSS Framework for a mobile responsive portfolio and demonstrate an ability to integrate the HTML pages as well as use appropriate CSS to display on various sized browsers, including mobile devices.
 
-# 02 TBD:
+# 02 Approach:
 
-    1. TBD
+    In approching this project, I took previous learnings on bio type projects to integrate and test various ways to display images in the website.  For example, some of the images are contained in the website gitbub folder, whereas, the image on myself I extracted from my Linked-IN account to ensure consitency (I used the insepect feature to identify the location of that image).
 
 
 # 03 Testing and Quality Control:
@@ -24,7 +24,7 @@ Portfolio: January 19, 2021, Michael O'Connor, WebDev Wannabe, 604 765-6061
 
     5. I got more comfortable using the inspect feature of the Chrome dev tools to test various margins and padding around elements.
 
-    6. I ran the html through a code validation service a few times while developing and on the final commit.
+    6. I ran the html through a code validation service a few times while developing as well as on the final commit.  I used validator.w3.org and the test identifies a stray ending div tag, a duplicate attribute class (in the 9 images) each of which I was able to consider, before final testing.  The former I adjuested the latter I ignored as the changed destabilized the images.
 
 
 # 04 Lessons Learned:
@@ -39,16 +39,19 @@ The following items should be considered for future enhancements, time and budge
 
     4. I have learned that solutions to coding debugging are dependent on the code itself, so that all debugging has to be done contextually in light of the other element and styling.
 
+    5. Test the contrast for vision accessibility on a reliable site.
+
+    6. If it ain't broken, don't fix it.
+
 
 # 05 Further improvements to make:
 
-    1. Add links to website references in the document.
+    1. Incorporate social media link buttons for twitter, facebook and youtube.  Media queries have been minimized in this version of the portfolio as instructed.
 
-    2. Fix the sizing of the cards.
 
-    3.  Add current rendering image.
-
-# 06 Current Rendering:
+# 06 Current Renderings:
 
 See Current Rendering at the time of writing in the Assignment01 Repo. 
-![alt text](Final-Rendering.png) [update link]
+![alt text](FinalRenderings/About.png) 
+![alt text](FinalRenderings/Portfolio.png) 
+![alt text](FinalRenderings/Contact.png) 
