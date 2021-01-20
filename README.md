@@ -48,6 +48,8 @@ The following items should be considered for future enhancements, time and budge
 
     1. Incorporate social media link buttons for twitter, facebook and youtube.  Media queries have been minimized in this version of the portfolio as instructed.
 
+    2. Add actual links to social media, linked-in and youtube (I do not use facebook).  I held off on personal contact detail for future effort.
+
 
 # 06 Current Renderings:
 
